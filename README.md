@@ -11,8 +11,7 @@ The investigation focused on PowerShell activity that queried Windows security p
 - **SIEM:** Wazuh
 - **Endpoint:** Windows
 - **Agent Name:** `windows112`
-- **Windows Agent IP:** `192.168.100.223`
-- **Wazuh Manager:** `192.168.100.222`
+- **Network Details:** Private lab network information is intentionally excluded.
 - **Log Source:** `Microsoft-Windows-PowerShell/Operational`
 
 ## PowerShell Monitoring
@@ -67,7 +66,7 @@ The mapping helped classify the observed PowerShell activity in the context of d
 
 ## Detection Evidence
 
-Screenshots will be added here showing the Wazuh alert and relevant PowerShell event details, including Event ID `4104`, Rule ID `91816`, and the MITRE ATT&CK T1082 mapping.
+Screenshots can be added here after confirming that they contain no private network addresses or other sensitive infrastructure details.
 
 ## Skills Demonstrated
 
@@ -86,4 +85,4 @@ This project demonstrates a practical threat hunting workflow using Wazuh to col
 
 ## Disclaimer
 
-This project was performed in a controlled lab environment for educational and cybersecurity learning purposes. The detected PowerShell activity is documented as observed and investigated behavior and is not presented as proof of a confirmed compromise.
+This project was performed in a controlled lab environment for educational and cybersecurity learning purposes. The detected PowerShell activity is documented as observed and investigated behavior and is not presented as proof of a confirmed compromise. Private network addressing and other sensitive infrastructure details are intentionally excluded from this public repository.
