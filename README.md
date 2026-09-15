@@ -1,3 +1,5 @@
+<img width="959" height="215" alt="3 1" src="https://github.com/user-attachments/assets/937305d2-8c4f-471d-92f0-3509292c64e5" />
+<img width="484" height="521" alt="3" src="https://github.com/user-attachments/assets/813f3ffb-56ea-4d13-b83f-8f67dc62e2ae" />
 # MITRE ATT&CK Threat Hunting with Wazuh SIEM
 
 ## Overview
